@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     
     var a: Int = 10
+    let b: Int = 20
     
     override func viewDidLoad() {
         super.viewDidLoad()
